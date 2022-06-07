@@ -1,0 +1,61 @@
+
+
+
+body {
+    
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 400px;
+    
+}
+
+.left-contents {
+    display: flex;
+    justify-content: space-between;
+}
+
+a {
+    padding: 20px 20px 0px 0px;
+}
+
+.intro-navbar {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 40px;
+    padding-bottom: 150px;
+    
+}
+
+.first-intro {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    height: 200px;
+    
+}
+
+.major-container {
+    background-color: #1f2937;
+    color: white;
+    margin: -20px;
+    
+
+}
+
+h1 { 
+    margin: 0px;
+    font-size: 48px;
+}
+
+.sign-up {
+   background: #3882F6;
+   color: white;
+   align-self: flex-start;
+   padding: 5px 20px 5px 20px;
+   border-radius: 10%;
+   font-size:  14px;
+   font-weight: 800;
+}
